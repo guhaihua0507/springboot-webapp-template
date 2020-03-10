@@ -1,4 +1,4 @@
-package com.ghh.simple;
+package com.ghh.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
