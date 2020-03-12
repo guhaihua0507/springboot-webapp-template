@@ -12,7 +12,7 @@ public class ApplicationController {
 
     @GetMapping("/test")
     public ModelAndView test(ModelAndView mv) {
-        mv.setViewName("/test");
+        mv.setViewName("test");
         logger.info("---------test 123 logger");
         return mv;
     }
