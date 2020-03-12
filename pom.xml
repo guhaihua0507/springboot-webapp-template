@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ghh</groupId>
-    <artifactId>sample</artifactId>
+    <artifactId>springboot-webapp-sample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot-webapp-sample</name>
     <description>Demo project for Spring Boot</description>
